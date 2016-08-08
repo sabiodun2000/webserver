@@ -1,2 +1,2 @@
 # webserver
-This contains the code and configuration of a static web site
+This contains cookbook of a static website
