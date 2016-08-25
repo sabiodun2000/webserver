@@ -1,2 +1,2 @@
-#This is a configuration management for installing and starting apache web server 
+Ansible configuration management for installing and starting apache web server. 
 
